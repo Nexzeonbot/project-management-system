@@ -74,3 +74,13 @@
 
 # └── .gitignore
 
+# 
+
+# \## Developer Contribution
+
+# 
+
+# This project follows a feature branch based Git workflow.
+
+# Changes are developed in feature branches and submitted through Pull Requests for review before merging into the develop branch.
+
